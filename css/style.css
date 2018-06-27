@@ -320,15 +320,23 @@ a.slide-btn:hover {
 	background-attachment: fixed!important
 }
 .slide-1, .text-slide {
-	background: url(../images/banner2.jpg);
+	background: url(../images/1.jpg);
 	background-size: cover
 }
 .slide-2 {
-	background: url(../images/banner3.jpg);
+	background: url(../images/2.jpg);
 	background-size: cover
 }
 .slide-3 {
-	background: url(../images/banner1.jpg);
+	background: url(../images/3.jpg);
+	background-size: cover
+}
+.slide-4 {
+	background: url(../images/4.jpg);
+	background-size: cover
+}
+.slide-5 {
+	background: url(../images/5.jpg);
 	background-size: cover
 }
 .single-slide-item {
